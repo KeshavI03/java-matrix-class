@@ -2,13 +2,15 @@
 Improved AP CS project to create a Matrix class with basic functionality
 
 Constructors:
+
   Empty 1x1 Matrix
   Empty NxM Matrix
   NxM Matrix w/ Integer values between 0 and range
   Matrix filled from NxM array
   Matrix copy constructor
   
-Methords:
+Methods:
+
   length - returns Matrix length
   height - returns Matrix height
   
